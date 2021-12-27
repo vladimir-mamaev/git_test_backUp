@@ -1,2 +1,2 @@
 first feature commit
-second content
+feature content
