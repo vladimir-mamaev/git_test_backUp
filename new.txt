@@ -1,3 +1,7 @@
 first feature commit
+
 second content
 some new content
+
+feature content
+
